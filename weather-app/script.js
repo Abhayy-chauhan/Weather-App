@@ -6,7 +6,7 @@ const searchForm = document.querySelector("[data-searchForm]");
 const loadingScreen = document.querySelector(".loading-container");
 const userInfoContainer = document.querySelector(".user-info-container");
 
-const API_KEY = "4fd64afbd6e5f6620d7e8c9414723f8e";
+const API_KEY = "YOUR_API_KEY";
 let currentTab = userTab;
 currentTab.classList.add('current-tab');
 getFromSessionStorage();
