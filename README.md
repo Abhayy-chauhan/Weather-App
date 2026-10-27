@@ -27,7 +27,7 @@ Welcome to the **Weather App**! This application provides real-time weather info
 
 ---
 
-## ⚙️ How to Run Locally
+## ⚙️ How to Setup & Run Locally
 
 1. **Clone the repository:**
    ```bash
